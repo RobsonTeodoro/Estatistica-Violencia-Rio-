@@ -1,22 +1,36 @@
 Análise de Dados de Violência no Rio de Janeiro - 2023
-Este é um projeto de exemplo criado para demonstrar o uso do Streamlit em um contexto de análise de dados de segurança pública. Ele foi desenvolvido para visualizar dados de violência urbana no Rio de Janeiro em 2023.
+
+Este é um projeto de exemplo criado para demonstrar o uso do Streamlit em um contexto de análise de dados de segurança pública. 
+Ele foi desenvolvido para visualizar dados de violência urbana no Rio de Janeiro em 2023.
 Descrição
 Este projeto utiliza Streamlit para criar uma aplicação web interativa que permite visualizar dados de violência urbana, como homicídios, assaltos, roubos de veículos, furtos, entre outros. Além disso, oferece uma API construída com Flask para disponibilizar estatísticas básicas dos dados.
 Funcionalidades
+
 •	Carregar dados de um arquivo Excel.
+
 •	Gerar estatísticas básicas (média, mediana, desvio padrão).
+
 •	Visualizar dados através de gráficos interativos utilizando matplotlib e seaborn.
+
 •	API Flask para fornecer dados e estatísticas em formato JSON.
+
 Estrutura do Projeto
 plaintext
 Copiar código
-.
+
+
 ├── data_handler.py
+
 ├── statistics.py
+
 ├── visualization.py
+
 ├── app.py
+
 ├── main.py
+
 └── README.md
+
 •	data_handler.py: Contém a classe DataHandler para carregamento e processamento dos dados.
 •	statistics.py: Contém a classe Statistics para cálculo de estatísticas básicas.
 •	visualization.py: Contém a classe Visualization para geração de gráficos.
