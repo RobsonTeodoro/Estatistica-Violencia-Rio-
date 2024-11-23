@@ -96,12 +96,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ScreenShot
 
-
-Gráficos de Área - Homicídios x Assaltos
- 
-Gráfico de Linha - Evolução de Homicídios no Rio de Janeiro 
-Gráfico de Linha - Evolução de Assaltos no Rio de Janeiro
- 
-
-Gráfico de Barras - Totais de Incidentes no Ano de 2023 
+Gráfico de Linha - Evolução de Homicídios no Rio de Janeiro.png 
+Gráficos de Área - Homicídios x Assaltos.png
+Gráfico de Linha - Evolução de Assaltos no Rio de Janeiro.png
+Gráfico de Barras - Totais de Incidentes no Ano de 2023.png
 
