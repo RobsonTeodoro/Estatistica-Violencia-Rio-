@@ -47,12 +47,12 @@ Copiar código
 •	README.md: Documento explicativo do projeto.
 
 
-
 Pré-requisitos
 
 •	Python 3.13
 
 •	pip para gerenciar dependências
+
 
 Dependências
 
@@ -72,7 +72,9 @@ As seguintes bibliotecas são usadas:
 
 
 Instalação
+
 1.	Clone o repositório:
+   
 bash
 
 Copiar código
@@ -89,9 +91,12 @@ Copiar código
 
 python -m venv venv
 
-source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+source venv/bin/activate  
+
+# No Windows, use `venv\Scripts\activate`
 
 5.	Instale as dependências:
+   
 bash
 
 Copiar código
