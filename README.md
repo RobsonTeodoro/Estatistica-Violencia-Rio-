@@ -125,9 +125,15 @@ Manipulação de Dados (data_handler.py)
 O manipulador de dados é responsável por carregar e preparar os dados.
 
 •	Classe DataHandler:
+
 o	__init__(self, file_path): Inicializa a classe com o caminho para o arquivo Excel.
+
+
 o	load_data(self): Carrega os dados do arquivo Excel e mapeia os meses em português para números.
+
+
 o	get_data(self): Retorna o DataFrame de dados mais atualizado.
+
 
 Estatísticas (statistics.py)
 
